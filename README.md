@@ -1,1 +1,1 @@
-# Practices Data Science
+# Practicing data science
